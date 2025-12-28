@@ -1,7 +1,6 @@
 <div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=00EDF7FF&width=535&lines=Hi%2C+I'm+Garvit%F0%9F%91%8B;Let's+Connect!"/>
 </div>
----
 
 <p align="left">
   <a href="https://www.linkedin.com/in/Garvit Chauhan" target="_blank">
@@ -24,22 +23,25 @@ Just a curious learner who loves building things, exploring web technologies, an
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" />
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Languages</strong></td>
+</tr>
+<tr>
+	<td><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgresql,nextjs"></td>
+	<td><img src="https://skillicons.dev/icons?i=java,python,c,cpp,typescript&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+	<td><img src="https://skillicons.dev/icons?i=git,vscode,github,postman,githubactions&theme=dark"></td>
+	<td><img src="https://skillicons.dev/icons?i=git,github,postman,githubactions&theme=dark"></td>
+</tr>
+</table>
 
 ---
 
