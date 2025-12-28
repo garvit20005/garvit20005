@@ -1,47 +1,46 @@
-<h1 align="center">Hi 👋, I'm Garvit</h1>
-<h3 align="center">A curious learner exploring Web Development & Programming</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+I'm+Garvit+👋;Web+Developer+%7C+Programmer;Always+Learning+🚀" />
+</h1>
 
 ---
 
 ## 🌐 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/garvit-chauhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://twitter.com/garvit2005" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
   <a href="https://instagram.com/garvit2005" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Full Stack Web Development**
-- 🔭 Building projects using **HTML, CSS, JavaScript & Node.js**
-- 🤝 Open to collaborating on **beginner-friendly projects**
-- 🧠 Practicing **DSA & problem solving**
-- ⚡ Fun fact: Debugging teaches me more than tutorials 😄
+Just a curious learner who loves building things, exploring web technologies, and solving problems through code.
+
+⚡ Fun fact: Debugging is my daily workout.
 
 ---
 
 ## 🛠️ Technologies
 
-### 🌐 Web Development
+### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" />
 </p>
 
-### 🧰 Tools
+### 🌐 Web Development
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ---
@@ -56,9 +55,9 @@
 
 ## 👀 Profile Views
 <p>
-  <img src="https://komarev.com/ghpvc/?username=garvit2005&color=cyan&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=garvit2005&style=flat&color=38BDF8"/>
 </p>
 
 ---
 
-⭐ *Always learning, always building.*
+⭐ Always learning. Always building.
