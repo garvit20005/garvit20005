@@ -12,7 +12,7 @@
   <a href="https://x.com/Garvit20005" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
-  <a href="https://instagram.com/garvit2005" target="_blank">
+  <a href="https://www.instagram.com/garvit_chauhan05" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </p>
