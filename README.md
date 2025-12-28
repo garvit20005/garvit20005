@@ -39,7 +39,7 @@ Just a curious learner who loves building things, exploring web technologies, an
 </tr>
 <tr>
 	<td><img src="https://skillicons.dev/icons?i=git,vscode,github,postman,githubactions&theme=dark"></td>
-	<td><img src="https://skillicons.dev/icons?i=git,github,postman,githubactions&theme=dark"></td>
+	
 </tr>
 </table>
 
