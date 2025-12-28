@@ -1,10 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+I'm+Garvit+👋;Web+Developer+%7C+Programmer;Always+Learning+🚀" />
-</h1>
-
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=00EDF7FF&width=535&lines=Hi%2C+I'm+Garvit%F0%9F%91%8B;Let's+Connect!"/>
+</div>
 ---
 
-## 🌐 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/Garvit Chauhan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
