@@ -6,10 +6,10 @@
 
 ## 🌐 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/garvit-chauhan" target="_blank">
+  <a href="https://www.linkedin.com/in/Garvit Chauhan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://twitter.com/garvit2005" target="_blank">
+  <a href="https://x.com/Garvit20005" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
   <a href="https://instagram.com/garvit2005" target="_blank">
