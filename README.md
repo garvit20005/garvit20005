@@ -1,18 +1,64 @@
-# 💫 About Me:
-Building web projects using HTML, CSS, JavaScript & backend development <br>Beginner-friendly web development and open-source projects<br>Improving DSA, backend development, and system design basics<br>Full-stack development, Git/GitHub, and problem solving on LeetCode<br>Frontend development, JavaScript basics, or college tech projects<br>I break my code more than I build it — but that’s how I learn 😄
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvit_chauhan05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Garvit Chauhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Garvit20005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhur.chauhan2005@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=garvit20005&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=garvit20005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=garvit20005&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<h1 align="center">Hi 👋, I'm Garvit</h1>
+<h3 align="center">A curious learner exploring Web Development & Programming</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=garvit20005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/garvit-chauhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/garvit2005" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+  </a>
+  <a href="https://instagram.com/garvit2005" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🌱 Currently learning **Full Stack Web Development**
+- 🔭 Building projects using **HTML, CSS, JavaScript & Node.js**
+- 🤝 Open to collaborating on **beginner-friendly projects**
+- 🧠 Practicing **DSA & problem solving**
+- ⚡ Fun fact: Debugging teaches me more than tutorials 😄
+
+---
+
+## 🛠️ Technologies
+
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=garvit2005&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit2005&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 👀 Profile Views
+<p>
+  <img src="https://komarev.com/ghpvc/?username=garvit2005&color=cyan&style=flat"/>
+</p>
+
+---
+
+⭐ *Always learning, always building.*
