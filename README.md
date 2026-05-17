@@ -31,8 +31,8 @@ Just a curious learner who loves building things, exploring web technologies, an
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-	<td><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgresql,nextjs"></td>
-	<td><img src="https://skillicons.dev/icons?i=java,python,c,cpp,typescript&theme=dark"></td>
+	<td><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgresql"></td>
+	<td><img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Tools</strong></td>
